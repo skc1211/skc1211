@@ -65,7 +65,7 @@
           <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
           <br>Python
         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=c#" width="45" height="45" alt="C#" />
+            <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="45" height="45" alt="C#" />
             <br>C#
         </td>
         <td align="center" width="90">
